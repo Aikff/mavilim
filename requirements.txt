@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+ccxt
+pandas
+pandas_ta
+pytz
